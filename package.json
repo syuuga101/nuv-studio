@@ -1,0 +1,7 @@
+{
+  "name": "nuv-converter",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"build": "node build.cjs"},
+  "dependencies": {"@ffmpeg/ffmpeg": "0.12.15", "@ffmpeg/core": "0.12.10"}
+}
